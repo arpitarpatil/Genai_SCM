@@ -83,14 +83,6 @@ scikit-learn
 - Pandas
 - NumPy
 - Scikit-learn (Linear Regression)
-  
-🚀 Future Enhancements
-📊 Graph visualization
-🤖 Integration with real Generative AI (LLMs)
-📦 Multi-product forecasting
-🌐 Web-based dashboard
-☁️ Cloud deployment
-💡 Conclusion
 
 This project demonstrates how AI can improve Supply Chain Management by predicting demand and generating intelligent recommendations. It highlights the practical application of machine learning in real-world business problems.
 

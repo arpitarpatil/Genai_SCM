@@ -77,7 +77,7 @@ scikit-learn
 - Increase inventory
 - Maintain stock
 - Adjust supply chain
-- 
+  
 ## 🧠 Technologies Used
 - Python
 - Pandas
@@ -89,7 +89,7 @@ This project demonstrates how AI can improve Supply Chain Management by predicti
 👩‍💻 Author
 
 Arpita Patil
-AI/ML Engineering Student
+- AI/ML Engineering Student
 
 📌 Note
 

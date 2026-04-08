@@ -53,34 +53,37 @@ Required Libraries:
 pandas
 numpy
 scikit-learn
-
-## 📦 Requirements
-python main.py
-🧪 Usage Steps
+```
+## ▶️ How to Run
+-python main.py
 - Place your dataset inside the data/ folder
 - Run the program
 -Enter:
   -Dataset file name
   -Date column name
   -Demand/Sales column name
-Enter number of future days
-View predictions and AI insights
-📊 Example Input
-Enter dataset file name: demand.csv  
-Enter DATE column name: date  
-Enter DEMAND column name: target_demand  
-Enter number of future days: 10  
-📈 Output
-Predicted demand values for future days
-AI-generated insights like:
-Increase inventory
-Maintain stock
-Adjust supply chain
-🧠 Technologies Used
-Python
-Pandas
-NumPy
-Scikit-learn (Linear Regression)
+-Enter number of future days
+-View predictions and AI insights
+
+## 📊 Example Input
+- Enter dataset file name: demand.csv  
+- Enter DATE column name: date  
+- Enter DEMAND column name: target_demand  
+- Enter number of future days: 10  
+
+## 📈 Output
+- Predicted demand values for future days
+- AI-generated insights like:
+- Increase inventory
+- Maintain stock
+- Adjust supply chain
+- 
+## 🧠 Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn (Linear Regression)
+  
 🚀 Future Enhancements
 📊 Graph visualization
 🤖 Integration with real Generative AI (LLMs)
@@ -101,4 +104,4 @@ AI/ML Engineering Student
 This is a mini-project for academic purposes and can be extended into a full-scale industry-level system.
 
 
----
+
